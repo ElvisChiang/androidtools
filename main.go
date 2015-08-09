@@ -87,7 +87,7 @@ func asCheck() {
 	}
 
 	if *checkcert {
-		Checkcert()
+		Checkcert("", "", "", "")
 	}
 
 	if *checklocale {

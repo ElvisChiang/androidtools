@@ -1,0 +1,6 @@
+# cert format
+# vendor type sha1_hash
+android media     B7:9D:F4:A8:2E:90:B5:7E:A7:65:25:AB:70:37:AB:23:8A:42:F5:D3
+android platform  27:19:6E:38:6B:87:5E:76:AD:F7:00:E7:EA:84:E4:C6:EE:E3:3D:FA
+android release   61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+android shared    5B:36:8C:FF:2D:A2:68:69:96:BC:95:EA:C1:90:EA:A4:F5:63:0F:E5

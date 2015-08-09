@@ -22,12 +22,6 @@ var defaultCert = map[string]string{
 	"android_shared":   "5B:36:8C:FF:2D:A2:68:69:96:BC:95:EA:C1:90:EA:A4:F5:63:0F:E5",
 }
 
-type certData struct {
-	vendor,
-	certType,
-	sha1Hash string
-}
-
 func readCert(certFile string) map[string]string {
 	cert := make(map[string]string)
 	for k, v := range defaultCert {
